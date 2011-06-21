@@ -1,0 +1,5 @@
+.idea/
+lib_managed/
+project/
+sbt-coverage-0.10.iml
+target/
